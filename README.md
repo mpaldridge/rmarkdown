@@ -14,7 +14,7 @@ I'm giving a talk at the teaaching development morning for the School of Mathema
 
 * **[Slides for my talk](rmarkdown-slides.html)**
 * [R Markdown source code](https://github.com/mpaldridge/rmarkdown/blob/main/rmarkdown-slides.Rmd) for the above slides
-* Handout for the talk "knitted" from exactly the same code as built the slides themselves [[HTML format]](rmarkdown-handout.html) | [[PDF format]](rmarkdown-handout.pdf)
+* Handout for the talk "knitted" from exactly the same code as built the slides themselves [[HTML format]](rmarkdown-handout.html) or [[PDF format]](rmarkdown-handout.pdf)
 
 ## Useful references
 
