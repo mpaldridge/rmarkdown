@@ -33,3 +33,9 @@ My notes for the University of Leeds module MATH1710 Probability and Statistics 
 - [MATH1710 lecture notes](https://mpaldridge.github.io/math1710/index.html)
 - [Source code](https://github.com/mpaldridge/math1710) for those lecture notes
 
+Also test $x^2 + \frac12 y$ and test:
+
+$$
+x^2+ \frac12y
+$$
+
